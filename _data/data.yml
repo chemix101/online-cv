@@ -54,7 +54,7 @@ education:
     - degree: Bachelor in Business Management & Finance
       university: King's Own Institute
       time: 2016 - 2018
-#      details: |
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -65,7 +65,7 @@ education:
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
-#      details: |
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
