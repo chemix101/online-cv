@@ -47,8 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      <p align="justify">Goal oriented, sharp minded & positive individual, with exceptional market research skills, negotiations abilities 
-      and management. Possessing a Bachelor’s degree in Business & Finance (with academic excellency). 9+ Years as ...</p>
+      <p align="justify">Goal oriented, sharp minded & positive individual, with exceptional market research, negotiations  
+      and management skills. Possessing a Bachelor’s degree in Business & Finance (with academic excellency). 9+ Years as 
+      Administrative Manager & past military service</p>
 education:
     - degree: Bachelor in Business Management & Finance
       university: King's Own Institute
@@ -93,14 +94,14 @@ experiences:
           - Handled financial accounts, Issue of receipt and preparation on financial reports.
           - Created client relationship, service & conflict resolution procedures.
           
-          Achievements:
+        Achievements:
           - Generated the ability for Ms. Ansky to take more clients, creating an increase of 75% in clients per year by taking on all 
             administrative duties. Allowing Ms. Ansky to deal only with the legal aspects of her job.
           - Implemented a marketing strategy of sending “Congratulations” emails and yearly greeting emails. In turn it increased the word 
             of mouth reputation of Ms. Ansky.
-    - role: Maintenance Manager/Instructor
-      time: 2006 - 2009
-      company: Israeli Defence Force - Air Force. Israel
+    - role: 
+      time: 
+      company: 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -113,13 +114,18 @@ experiences:
       time: 2006 - 2009
       company: Israeli Defence Force - Air Force. Israel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Started as a F-16 maintenance engineer in a combat squadron. Within 8 months have risen to a position of a non-commissioned officer (NCO), 
+        in charge of maintenance of several aircrafts and a crew of maintenance engineer. Additionally, Served as the squadron’s instructor & certifier 
+        on advance aircraft equipment.
+          - Prepare, Managed & Delegated daily maintenance work.
+          - Report to and brief senior officers.
+          - Conducted post maintenance and daily inspections to the aircraft.
+          - Additionally, Served as the squadron’s instructor & certifier on advance aircraft equipment.
+        
+        Achievements:
+          - Commendation for excellency in service.
+          - Assumed position of NCO 1.9 years before military protocols permit so, by receiving special approval from a high ranking officer.
+          
 projects:
     title: Projects
     intro: >
@@ -127,9 +133,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: ilyaconductor.com
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A website designed for world fameous clasical music violinist & conductor Ilya Konovalov."
 
       - title: DevStudio
         link: "#"
