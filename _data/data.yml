@@ -51,8 +51,8 @@ career-profile:
       and management skills. Possessing a Bachelor’s degree in Business & Finance (with academic excellency). 9+ Years as 
       Administrative Manager & past military service</p>
 education:
-    - degree: Bachelor in Business Management & Finance
-      university: King's Own Institute
+    - degree: <p align="justify">Bachelor in Business Management & Finance</p>
+      university: <p align="justify">King's Own Institute</p>
       time: 2016 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -62,8 +62,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Advance Diploma in Business
-      university: Bridge Business College
+    - degree: <p align="justify">Advance Diploma in Business</p>
+      university: <p align="justify">Bridge Business College</p>
       time: 2012 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -74,9 +74,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Administrative Manager
+    - role: <p align="justify">Administrative Manager</p>
       time: 2010 - 2019
-      company: Self-Employed under Svetlana Ansky Civil lawyer. Israel/Australia
+      company: <p align="justify">Self-Employed under Svetlana Ansky Civil lawyer. Israel/Australia</p>
       details: |
         <p align="justify">Started as an administrative assistant for Ms. Ansky and utilized the skills acquired in a military service with the aim of helping 
         her to be the best civil lawyer she can possibly be. I have quickly proven my abilities and stater to manage all administrative duties 
@@ -106,9 +106,9 @@ experiences:
   #      Describe your role here.
   #        - Bullet point
   #        - Bullet point
-    - role: Maintenance Manager/Instructor 
+    - role: <p align="justify">Maintenance Manager/Instructor</p> 
       time: 2006 - 2009
-      company: Israeli Defence Force - Air Force. Israel
+      company: <p align="justify">Israeli Defence Force - Air Force. Israel</p>
       details: |
         <p align="justify">Started as a F-16 maintenance engineer in a combat squadron. Within 8 months have risen to a position of a non-commissioned officer (NCO), 
         in charge of maintenance of several aircrafts and a crew of maintenance engineer. Additionally, Served as the squadron’s instructor & certifier 
