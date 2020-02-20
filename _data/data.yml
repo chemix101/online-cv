@@ -76,7 +76,7 @@ education:
 experiences:
     - role: Administrative Manager
       time: 2010 - 2019
-      company: Svetlana Anski-Konovalov Civil layer. Israel/Australia
+      company: Self-Employed under Svetlana Ansky Civil lawyer. Israel/Australia
       details: |
         <p align="justify">Started as an administrative assistant for Ms. Ansky and utilized the skills acquired in a military service with the aim of helping 
         her to be the best civil lawyer she can possibly be. I have quickly proven my abilities and stater to manage all administrative duties 
@@ -86,7 +86,7 @@ experiences:
           - <p align="justify">Perfected the flow of communication between Ms. Ansky and her clients by acting as a liaison 
             between the parties. Utilizing effective communication techniques coupled with high understanding 
             of human relationships and the human psychology.</p>
-          - <p align="justify">Expert level research, analysis and synthesis skills that have been developed, allowed for quick 
+          - <p align="justify">Expert level research, analysis and synthesis skills that have allowed for quick 
             grasp of complex legal information.</p>
           - <p align="justify">Remarkably high skills (with thousands of hours) with Microsoft Office Suite applications, including 
             professional level knowledge in Microsoft Project.</p>
@@ -103,11 +103,7 @@ experiences:
       time: 
       company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here.
           - Bullet point
           - Bullet point
     - role: Maintenance Manager/Instructor 
@@ -130,9 +126,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     
     assignments:
       - title: ilyaconductor.com
         link: "#hook"
